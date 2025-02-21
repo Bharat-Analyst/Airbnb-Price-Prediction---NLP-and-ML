@@ -122,22 +122,3 @@ embedding = model(**output).last_hidden_state
 🚀 **Expand AI capabilities:** Integrate **Generative AI (LLMs)** for **automated listing descriptions** and price suggestions.  
 🚀 **Deploy as an API:** Convert this model into an **interactive web app using Flask or FastAPI**.  
 🚀 **Integrate real-time pricing data:** Fetch live Airbnb data to continuously update and refine predictions.  
-
----
-
-## **Contributing**
-We welcome contributions! Feel free to **fork the repo**, submit pull requests, or raise issues.  
-
----
-
-## **License**
-This project is licensed under the **MIT License**.  
-
----
-
-### **Author**
-📌 **Your Name**  
-🔗 **GitHub:** [github.com/yourusername](#)  
-🔗 **LinkedIn:** [linkedin.com/in/yourname](#)  
-
----
